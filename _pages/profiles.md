@@ -70,3 +70,9 @@ profiles:
     content: about/priscilla.md
     image_circular: true
 ---
+
+
+## Alumni
+
+- First Last, (where are they now) 
+
