@@ -14,11 +14,11 @@ profile:
     <p><a href="https://ed.stanford.edu/">Stanford Graduate School of Education</a></p>
     <p><a href="https://cs.stanford.edu/">Stanford Computer Science</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -31,7 +31,3 @@ announcements:
 We use our understanding of human learning to create artificial intelligence that learns more like people do. In turn, we use artificial intelligence and other technologies to model and assist human learning, and we apply the sorts of computational principles we work with in other areas that might benefit people. Because we have plenty of intuition on the settings in which learning thrives, we'll look to have fun, grow, and get enough sleep while we're at it.
 
 **Keywords:** {{site.keywords}}
-
-Interested in our work? Interested in working with us?
-
-[nhaber at stanford dot edu](mailto:nhaber at stanford dot edu)
