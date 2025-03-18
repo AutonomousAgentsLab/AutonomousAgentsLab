@@ -35,14 +35,14 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/AutonomousAgentsLab/_pages/contact/";
+            window.location.href = "/AutonomousAgentsLab/contact/";
           },
         },{id: "nav-values",
           title: "values",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/AutonomousAgentsLab/_pages/values/";
+            window.location.href = "/AutonomousAgentsLab/values/";
           },
         },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
