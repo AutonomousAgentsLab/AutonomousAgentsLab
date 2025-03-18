@@ -71,8 +71,6 @@ profiles:
     image_circular: true
 ---
 
-
 ## Alumni
 
-- First Last, (where are they now) 
-
+- First Last, (where are they now)
