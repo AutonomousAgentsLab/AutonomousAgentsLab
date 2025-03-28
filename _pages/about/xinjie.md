@@ -1,5 +1,0 @@
-### Xinjie Chen
-
-_Research Associate & Lecturer_
-
-Dr. Xinjie Chen is a Senior Research Associate and Lecturer at Stanford. Xinjie has been working as a core team member or research lead on several educational research projects at the Stanford Graduate School of Education, including the collaboration with multiple school districts in California. Her research interests are inter-disciplinary and include K-12 teaching and learning, educational psychology, second/foreign language acquisition, bi/multilingualism, and educational technology. Xinjie has published a series of empirical research articles in many prestigious international peer reviewed journals in the fields of education, language and psychology. Also, she has been invited to serve as editorial board member and peer reviewer for multiple top tier journals and conferences (e.g., AERA, AAAL). She is so excited to explore the intersection of education and artificial intelligence and understand the ways in which digital technology improve teaching and learning.

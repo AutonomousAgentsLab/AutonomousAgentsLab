@@ -25,17 +25,9 @@ profiles:
     image: profiles/isaac.avif
     content: about/isaac.md
     image_circular: true
-  - align: left
-    image: profiles/xinjie.avif
-    content: about/xinjie.md
-    image_circular: true
   - align: right
     image: profiles/chris.avif
     content: about/chris.md
-    image_circular: true
-  - align: left
-    image: profiles/samaher.avif
-    content: about/samaher.md
     image_circular: true
   - align: right
     image: profiles/merve.avif
@@ -44,10 +36,6 @@ profiles:
   - align: left
     image: profiles/anya.avif
     content: about/anya.md
-    image_circular: true
-  - align: right
-    image: profiles/frieda.avif
-    content: about/frieda.md
     image_circular: true
   - align: left
     image: profiles/sun.avif
@@ -61,16 +49,11 @@ profiles:
     image: profiles/xi-jia.avif
     content: about/xi-jia.md
     image_circular: true
-  - align: right
-    image: profiles/raymond.avif
-    content: about/raymond.md
-    image_circular: true
-  - align: left
-    image: profiles/priscilla.avif
-    content: about/priscilla.md
-    image_circular: true
 ---
 
 ## Alumni
 
-- First Last, (where are they now)
+- Raymond Zhang, graduated from the EDS MS program and works as an ML engineer
+- Priscilla Zhao, graduated from the EDS MS program and is now a PhD student here
+- Xinjie Chen, went off to a faculty position at the Chinese University of Hong Kong
+- Frieda Rong, went off to a PhD at the University of Toronto and Waabi
