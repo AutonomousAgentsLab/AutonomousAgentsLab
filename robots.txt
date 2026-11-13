@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://autonomousagentslab.github.io/AutonomousAgentsLab//sitemap.xml
+User-agent: * Disallow: Sitemap: https://autonomousagents.stanford.edu/sitemap.xml

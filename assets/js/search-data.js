@@ -7,42 +7,42 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/AutonomousAgentsLab/";
+      window.location.href = "/";
     },
   },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/AutonomousAgentsLab/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-projects",
           title: "projects",
           description: "Lab projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/AutonomousAgentsLab/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-people",
           title: "people",
           description: "Agents of the lab",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/AutonomousAgentsLab/people/";
+            window.location.href = "/people/";
           },
         },{id: "nav-contact",
           title: "contact",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/AutonomousAgentsLab/contact/";
+            window.location.href = "/contact/";
           },
         },{id: "nav-values",
           title: "values",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/AutonomousAgentsLab/values/";
+            window.location.href = "/values/";
           },
         },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
@@ -51,7 +51,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/AutonomousAgentsLab/news/announcement_2/";
+              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -59,17 +59,17 @@ ninja.data = [{
           title: 'Building Learning Tools',
           description: "By this, we mean both (1) tools that facilitate human learning and inquiry, and (2) tools that themselves can learn and adapt to users and tasks. We&#39;re particularly interested in developing wearable and augmented reality tools, in the mold of the [Autism Glass Project](http://autismglass.stanford.edu/).",
           section: "Projects",handler: () => {
-              window.location.href = "/AutonomousAgentsLab/projects/building_tools/";
+              window.location.href = "/projects/building_tools/";
             },},{id: "projects-engineering-interactive-learning-in-artificial-systems",
           title: 'Engineering Interactive Learning in Artificial Systems',
           description: "We look to develop machines that learn through autonomous exploration of and interaction with their environments -- as humans learn. To do this, we use deep reinforcement learning and employ and develop techniques in curiosity, active learning, and self-supervised learning. In doing so, we hope to create artificial systems that can learn more autonomously, flexibly, and robustly, with less demand on data.",
           section: "Projects",handler: () => {
-              window.location.href = "/AutonomousAgentsLab/projects/engineering_learning/";
+              window.location.href = "/projects/engineering_learning/";
             },},{id: "projects-modeling-human-learning-and-developmental-differences",
           title: 'Modeling Human Learning and Developmental Differences',
           description: "We seek to create computational models of human learning and development, and in particular, models of developmental differences such as Autism Spectrum Disorder. To do this, we engineer artificial systems that learn as humans do, in complex, real-world situations, and we compare artificial behavior to human behavior.",
           section: "Projects",handler: () => {
-              window.location.href = "/AutonomousAgentsLab/projects/human_learning/";
+              window.location.href = "/projects/human_learning/";
             },},{
         id: 'social-email',
         title: 'email',
